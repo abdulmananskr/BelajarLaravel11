@@ -20,3 +20,11 @@ Route::get('/', function () {
 Route::get('/about', function () {
     return view('about', ['nama' => 'Abdul Manan']);
 });
+
+Route::get('/blog', function () {
+    return view('blog', ['nama' => 'Abdul Manan']);
+});
+
+Route::get('/contact', function () {
+    return view('contact', ['nama' => 'Abdul Manan']);
+});
