@@ -9,6 +9,11 @@
 </head>
 
 <body>
+    <a href="/">Home</a>
+    <a href="/about">About</a>
+    <a href="/blog">Blog</a>
+    <a href="/contact">Contact</a>
+
     <h1>halaman Blog</h1>
 
     <article>

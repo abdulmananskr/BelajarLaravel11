@@ -9,7 +9,16 @@
 </head>
 
 <body>
+    <a href="/">Home</a>
+    <a href="/about">About</a>
+    <a href="/blog">Blog</a>
+    <a href="/contact">Contact</a>
     <h1>Halaman Contact</h1>
+    <ul>
+        <li><a href="">Instagram</a></li>
+        <li><a href="">youtube</a></li>
+        <li><a href="">facebook</a></li>
+    </ul>
 </body>
 
 </html>

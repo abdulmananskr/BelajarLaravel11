@@ -13,6 +13,8 @@
 <body>
     <a href="/">Home</a>
     <a href="/about">About</a>
+    <a href="/blog">Blog</a>
+    <a href="/contact">Contact</a>
     <h1>Halaman Home</h1>
     {{-- alert js --}}
     <script src="js/alert.js"></script>
